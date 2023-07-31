@@ -7,6 +7,8 @@ import bangus from "./files/bangus.JPG";
 import ladakh from "./files/ladakh.jpg";
 import srinagar from "./files/srinagar.jpg";
 
+
+
 const Locdata = [
     {
         imgsrc:pahalgam,
@@ -73,6 +75,8 @@ const Locdata = [
     
     
 ];
+
+
 
 
 

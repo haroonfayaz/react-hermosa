@@ -12,7 +12,7 @@ const Locations=(props)=>{
             <div className="package-title">
                 <h2>Locations</h2>
             </div>
-            <div class="location-content">
+            <div className="location-content">
 
                     {Locdata.map((val,ind)=>{
                         return  <Lcard

@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Footer from './Footer';
 
 
 
@@ -23,6 +22,8 @@ const Lcard=(props)=>{
     );
 };
 
+
+
 const Nlcard =(props)=>{
     return(
         <>
@@ -44,5 +45,6 @@ const Nlcard =(props)=>{
     );
 };
 
+
 export default Lcard;
-export {Nlcard};
+export {Nlcard };
