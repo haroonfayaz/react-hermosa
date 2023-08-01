@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-hermosa/static/css/main.3608d650.css",
+    "main.js": "/react-hermosa/static/js/main.3fb2c3f9.js",
+    "static/media/boxicons.svg": "/react-hermosa/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/aharbal.jpg": "/react-hermosa/static/media/aharbal.f0d197df17cdb3185cce.jpg",
+    "static/media/srinagar.jpg": "/react-hermosa/static/media/srinagar.3b6bd88df27127e10705.jpg",
+    "static/media/boxicons.eot": "/react-hermosa/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/gulmarg.jpeg": "/react-hermosa/static/media/gulmarg.7656404aeaff12abf3d3.jpeg",
+    "static/media/boxicons.woff": "/react-hermosa/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/react-hermosa/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/ladakh.jpg": "/react-hermosa/static/media/ladakh.836b448eae6cc46bc494.jpg",
+    "static/media/background2.jpeg": "/react-hermosa/static/media/background2.649c3b6c4b658cd8a0c7.jpeg",
+    "static/media/sonamarg.jpeg": "/react-hermosa/static/media/sonamarg.74dd4b86c9a646d5d46f.jpeg",
+    "static/media/boxicons.woff2": "/react-hermosa/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/gurez.jpg": "/react-hermosa/static/media/gurez.4ac3b4d5866427c7d80b.jpg",
+    "static/media/pahalgam.jpeg": "/react-hermosa/static/media/pahalgam.8734d94e7ceb89aea50b.jpeg",
+    "static/media/bangus.JPG": "/react-hermosa/static/media/bangus.2f4cbdab681ec8a7a35e.JPG",
+    "index.html": "/react-hermosa/index.html",
+    "main.3608d650.css.map": "/react-hermosa/static/css/main.3608d650.css.map",
+    "main.3fb2c3f9.js.map": "/react-hermosa/static/js/main.3fb2c3f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3608d650.css",
+    "static/js/main.3fb2c3f9.js"
+  ]
+}
