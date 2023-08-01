@@ -17,12 +17,12 @@ const Navbar =()=>{
              <>
         	<header>
 			<h3>Hermosa Trips</h3>
-			<nav ref={navRef}>
-				<NavLink to="/">Home</NavLink>
-				<NavLink to="/locations">Locations</NavLink>
-				<NavLink to="/package">Package</NavLink>
-                <NavLink to="/register">Register</NavLink>
-                <NavLink to="/contact">Contact US</NavLink>
+			<nav ref={navRef} className='nav'>
+				<NavLink to="/" className='a'>Home</NavLink>
+				<NavLink to="/locations" className='a'>Locations</NavLink>
+				<NavLink to="/package"className='a'>Package</NavLink>
+                <NavLink to="/register" className='a'>Register</NavLink>
+                <NavLink to="/contact" className='a'>Contact US</NavLink>
 
 				<NavLink to="/about">About Us</NavLink>
 				<button

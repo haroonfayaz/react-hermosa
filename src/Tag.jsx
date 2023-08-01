@@ -4,7 +4,6 @@ import t2 from "./files/t2.jpeg";
 import t4 from "./files/t4.jpeg";
 import t5 from "./files/t5.jpeg";
 import t6 from "./files/t6.jpeg";
-import Lcard from './Lcard';
 
 
 
@@ -30,39 +29,39 @@ const Tag =(props)=>{
     return(
         <>
    
-<section class="container">
-    <div class="text">
+<section className="container">
+    <div className="text">
         <h2>Approved By</h2>
     </div>
-    <div class="rowitems">
-        <div class="container-box">
-        <div class="container-image">
+    <div className="rowitems">
+        <div className="container-box">
+        <div className="container-image">
            <img src={t1} alt="Flight Services"/>
         </div>
            
         </div>
     
-        <div class="container-box">
-        <div class="container-image">
+        <div className="container-box">
+        <div className="container-image">
            <img src={t2} alt="Food Services"/>
         </div>
         </div>
 
-        <div class="container-box">
-        <div class="container-image">
+        <div className="container-box">
+        <div className="container-image">
             <img src={t4} alt="Travel Services"/>
         </div>
             
         </div>
 
-        <div class="container-box">
-        <div class="container-image">
+        <div className="container-box">
+        <div className="container-image">
             <img src={t5} alt="Hotel Services"/>
         </div>
             
         </div>
-        <div class="container-box">
-        <div class="container-image">
+        <div className="container-box">
+        <div className="container-image">
             <img src={t6} alt="Hotel Services"/>
         </div>
             
