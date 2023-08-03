@@ -1,6 +1,8 @@
 import React from 'react';
 import Footer from './Footer';
 import Locations from './Locations';
+import Package from './Package';
+
 
 const Home =()=>{
     return(
@@ -27,6 +29,7 @@ const Home =()=>{
             </div>
         </div>
         <Locations/>
+        <Package/>
         <Footer/>
         </>
         );

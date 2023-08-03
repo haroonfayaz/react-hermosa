@@ -7,6 +7,7 @@ import Register from './Register';
 import About from './About';
 import Contact from './Contact';
 import Locationdetail from './Locationsdetail';
+import Packagedetails from './Packagedetails';
 
 
 
@@ -22,7 +23,7 @@ const App =()=>{
         },
         {
             path:"/package",
-            element:<Package/>
+            element:<Packagedetails/>
         },
         {
             path:"/register",

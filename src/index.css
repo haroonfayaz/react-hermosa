@@ -239,7 +239,7 @@ animation: marquee 15s linear infinite;
   display: inline-block;
   margin-top:5vh;
   font-size: 25px;
-  padding: 10px 30px;
+  padding: 10px 10px;
   color: rgb(21, 84, 94);
   /* background-color:rgb(164, 44, 44); */
   background-color: white;
@@ -355,8 +355,8 @@ animation: marquee 15s linear infinite;
 }
 
 .image img{
-  width: 100%;
-  height: 400px;
+  width: 250px;
+  height: 350px;
   border-radius: 30px;
 }
 
@@ -369,6 +369,32 @@ animation: marquee 15s linear infinite;
   top: 10px;
   right: 20px;
 }
+.pack_submit {
+  display: inline-block;
+  background-color: green;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  border: 2px solid transparent;
+  border-radius: 60px;
+  width: 120px;
+  height: 40px; /* Add a specific height to the button */
+  line-height: 40px; /* Center the text vertically within the button */
+  text-align: center;
+  cursor: pointer;
+  transition: ease 0.30s;
+  box-sizing: border-box; /* Include padding and border in the specified width */
+  padding: 0; /* Reset padding */
+  }
+  
+  
+  
+  
+ .pack_submit:hover{
+    border: 2px solid #fc0050;
+    transform: scale(1.4);
+  }
+  
 
 .dest-content{
   display: flex;
@@ -379,11 +405,18 @@ animation: marquee 15s linear infinite;
   margin-bottom: 50px;
 }
 
-.location h4{
+.package1 h4{
   font-size: 25px;
   letter-spacing: 1px;
   font-weight: 600;
   margin-bottom: 2px;
+}
+.package1 h4:hover{
+  font-size: 35px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  margin-bottom: 2px;
+  color: #7A0BC0;
 }
 
 .pac-details li{
